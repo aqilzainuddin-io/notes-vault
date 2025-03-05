@@ -1,4 +1,5 @@
 # notes-vault
-- [x] Sync local repository with GitHub repository
+- [x] sync local repository with github repository
+- [ ] 
 
 
